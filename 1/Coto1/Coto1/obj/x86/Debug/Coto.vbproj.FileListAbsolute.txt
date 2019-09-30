@@ -1,0 +1,10 @@
+C:\Users\mateu\AppData\Local\Temporary Projects\Coto\obj\x86\Debug\Coto.Form1.resources
+C:\Users\mateu\AppData\Local\Temporary Projects\Coto\obj\x86\Debug\Coto.Resources.resources
+C:\Users\mateu\AppData\Local\Temporary Projects\Coto\obj\x86\Debug\Coto.vbproj.GenerateResource.Cache
+C:\Users\mateu\AppData\Local\Temporary Projects\Coto\bin\Debug\Coto.exe.config
+C:\Users\mateu\AppData\Local\Temporary Projects\Coto\bin\Debug\Coto.exe
+C:\Users\mateu\AppData\Local\Temporary Projects\Coto\bin\Debug\Coto.pdb
+C:\Users\mateu\AppData\Local\Temporary Projects\Coto\bin\Debug\Coto.xml
+C:\Users\mateu\AppData\Local\Temporary Projects\Coto\obj\x86\Debug\Coto.exe
+C:\Users\mateu\AppData\Local\Temporary Projects\Coto\obj\x86\Debug\Coto.xml
+C:\Users\mateu\AppData\Local\Temporary Projects\Coto\obj\x86\Debug\Coto.pdb

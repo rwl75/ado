@@ -1,0 +1,58 @@
+C:\Users\mateu\Desktop\Coto1\Coto1\bin\Debug\Coto1.exe.config
+C:\Users\mateu\Desktop\Coto1\Coto1\bin\Debug\Coto1.exe
+C:\Users\mateu\Desktop\Coto1\Coto1\bin\Debug\Coto1.pdb
+C:\Users\mateu\Desktop\Coto1\Coto1\bin\Debug\Coto1.xml
+C:\Users\mateu\Desktop\Coto1\Coto1\obj\x86\Debug\Coto.Form1.resources
+C:\Users\mateu\Desktop\Coto1\Coto1\obj\x86\Debug\Coto.Resources.resources
+C:\Users\mateu\Desktop\Coto1\Coto1\obj\x86\Debug\Coto1.vbproj.GenerateResource.Cache
+C:\Users\mateu\Desktop\Coto1\Coto1\obj\x86\Debug\Coto1.exe
+C:\Users\mateu\Desktop\Coto1\Coto1\obj\x86\Debug\Coto1.xml
+C:\Users\mateu\Desktop\Coto1\Coto1\obj\x86\Debug\Coto1.pdb
+C:\Users\mateu\Desktop\Coto\Coto1\bin\Debug\Coto1.exe.config
+C:\Users\mateu\Desktop\Coto\Coto1\obj\x86\Debug\Coto1.exe
+C:\Users\mateu\Desktop\Coto\Coto1\obj\x86\Debug\Coto1.xml
+C:\Users\mateu\Desktop\Coto\Coto1\obj\x86\Debug\Coto1.pdb
+C:\Users\mateu\Desktop\11\Coto1\Coto1\bin\Debug\Coto1.exe.config
+C:\Users\mateu\Desktop\11\Coto1\Coto1\obj\x86\Debug\Coto1.exe
+C:\Users\mateu\Desktop\11\Coto1\Coto1\obj\x86\Debug\Coto1.xml
+C:\Users\mateu\Desktop\11\Coto1\Coto1\obj\x86\Debug\Coto1.pdb
+C:\Users\mateu\Desktop\11\Coto1\Coto1\bin\Debug\Coto1.exe
+C:\Users\mateu\Desktop\11\Coto1\Coto1\bin\Debug\Coto1.pdb
+C:\Users\mateu\Desktop\11\Coto1\Coto1\bin\Debug\Coto1.xml
+C:\Users\mateu\Desktop\11\Coto1\Coto1\obj\x86\Debug\Coto.Form1.resources
+C:\Users\mateu\Desktop\11\Coto1\Coto1\obj\x86\Debug\Coto.Resources.resources
+C:\Users\mateu\Desktop\11\Coto1\Coto1\obj\x86\Debug\Coto1.vbproj.GenerateResource.Cache
+C:\Users\mateu\Desktop\Do oddania\Coto1\Coto1\bin\Debug\Coto1.exe.config
+C:\Users\mateu\Desktop\Do oddania\Coto1\Coto1\obj\x86\Debug\Coto1.exe
+C:\Users\mateu\Desktop\Do oddania\Coto1\Coto1\obj\x86\Debug\Coto1.xml
+C:\Users\mateu\Desktop\Do oddania\Coto1\Coto1\obj\x86\Debug\Coto1.pdb
+C:\Users\mateu\Desktop\Do oddania\Coto1\Coto1\bin\Debug\Coto1.exe
+C:\Users\mateu\Desktop\Do oddania\Coto1\Coto1\bin\Debug\Coto1.pdb
+C:\Users\mateu\Desktop\Do oddania\Coto1\Coto1\bin\Debug\Coto1.xml
+C:\Users\mateu\Desktop\Do oddania\Coto1\Coto1\obj\x86\Debug\Coto.Form1.resources
+C:\Users\mateu\Desktop\Do oddania\Coto1\Coto1\obj\x86\Debug\Coto.Resources.resources
+C:\Users\mateu\Desktop\Do oddania\Coto1\Coto1\obj\x86\Debug\Coto1.vbproj.GenerateResource.Cache
+C:\Users\mateu\Desktop\1\Coto1\Coto1\bin\Debug\Coto1.exe.config
+C:\Users\mateu\Desktop\1\Coto1\Coto1\obj\x86\Debug\Coto1.exe
+C:\Users\mateu\Desktop\1\Coto1\Coto1\obj\x86\Debug\Coto1.xml
+C:\Users\mateu\Desktop\1\Coto1\Coto1\obj\x86\Debug\Coto1.pdb
+C:\Users\mateu\Desktop\1\Coto1\Coto1\bin\Debug\Coto1.exe
+C:\Users\mateu\Desktop\1\Coto1\Coto1\bin\Debug\Coto1.pdb
+C:\Users\mateu\Desktop\1\Coto1\Coto1\bin\Debug\Coto1.xml
+C:\Users\mateu\Desktop\1\Coto1\Coto1\obj\x86\Debug\Coto.Form1.resources
+C:\Users\mateu\Desktop\1\Coto1\Coto1\obj\x86\Debug\Coto.Resources.resources
+C:\Users\mateu\Desktop\1\Coto1\Coto1\obj\x86\Debug\Coto1.vbproj.GenerateResource.Cache
+C:\Users\mateu\Desktop\78\1\Coto1\Coto1\bin\Debug\Coto1.exe.config
+C:\Users\mateu\Desktop\78\1\Coto1\Coto1\obj\x86\Debug\Coto1.exe
+C:\Users\mateu\Desktop\78\1\Coto1\Coto1\obj\x86\Debug\Coto1.xml
+C:\Users\mateu\Desktop\78\1\Coto1\Coto1\obj\x86\Debug\Coto1.pdb
+C:\Users\mateu\Desktop\78\1\Coto1\Coto1\bin\Debug\Coto1.exe
+C:\Users\mateu\Desktop\78\1\Coto1\Coto1\bin\Debug\Coto1.pdb
+C:\Users\mateu\Desktop\78\1\Coto1\Coto1\bin\Debug\Coto1.xml
+C:\Users\mateu\Desktop\78\1\Coto1\Coto1\obj\x86\Debug\Coto.Form1.resources
+C:\Users\mateu\Desktop\78\1\Coto1\Coto1\obj\x86\Debug\Coto.Resources.resources
+C:\Users\mateu\Desktop\78\1\Coto1\Coto1\obj\x86\Debug\Coto1.vbproj.GenerateResource.Cache
+C:\Users\mateu\Desktop\Projekt Ado.net\1\Coto1\Coto1\bin\Debug\Coto1.exe.config
+C:\Users\mateu\Desktop\Projekt Ado.net\1\Coto1\Coto1\obj\x86\Debug\Coto1.exe
+C:\Users\mateu\Desktop\Projekt Ado.net\1\Coto1\Coto1\obj\x86\Debug\Coto1.xml
+C:\Users\mateu\Desktop\Projekt Ado.net\1\Coto1\Coto1\obj\x86\Debug\Coto1.pdb

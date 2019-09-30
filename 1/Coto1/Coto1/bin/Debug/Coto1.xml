@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Coto1
+</name>
+</assembly>
+<members>
+<member name="T:Coto.Aplikacja_hodowlaDataSet.MASCIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.MATKIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.MIOTYDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.OJCOWIEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.SZCZENIETADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.WAGI_SZCZENIATDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.MASCIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.MATKIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.MIOTYRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.OJCOWIERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.SZCZENIETARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.WAGI_SZCZENIATRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.MASCIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.MATKIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.MIOTYRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.OJCOWIERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.SZCZENIETARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet.WAGI_SZCZENIATRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSetTableAdapters.MASCITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSetTableAdapters.MATKITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSetTableAdapters.MIOTYTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSetTableAdapters.OJCOWIETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSetTableAdapters.SZCZENIETATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSetTableAdapters.WAGI_SZCZENIATTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Coto.Aplikacja_hodowlaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Coto.Aplikacja_hodowlaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Coto.Aplikacja_hodowlaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Coto.Aplikacja_hodowlaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Coto.Aplikacja_hodowlaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Coto.Aplikacja_hodowlaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Coto.Aplikacja_hodowlaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Coto.Aplikacja_hodowlaDataSetTableAdapters.TableAdapterManager.UpdateAll(Coto.Aplikacja_hodowlaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Coto.Aplikacja_hodowlaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Coto.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Coto.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Coto.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
